@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIshow</string>
+    <string name="person">个人</string>
+    <string name="thing">商品</string>
+</resources>
